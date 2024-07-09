@@ -1,12 +1,12 @@
 {
-    "name": "processton/processton-tabs",
+    "name": "processton-io/processton-tabs",
     "description": "Provide tabs schema for processton-client.",
     "version": "1.0.0",
     "keywords": [
         "processton",
         "processton-tabs"
     ],
-    "homepage": "https://github.com/processton/processton-tabs",
+    "homepage": "https://github.com/processton-io/processton-tabs",
     "license": "GPL-2.0-or-later",
     "type": "library",
     "authors": [

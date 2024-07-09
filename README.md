@@ -1,8 +1,8 @@
 # Very short description of the package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/processton/processton-tabs.svg?style=flat-square)](https://packagist.org/packages/processton/processton-tabs)
-[![Total Downloads](https://img.shields.io/packagist/dt/processton/processton-tabs.svg?style=flat-square)](https://packagist.org/packages/processton/processton-tabs)
-![GitHub Actions](https://github.com/processton/processton-tabs/actions/workflows/main.yml/badge.svg)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/processton-io/processton-tabs.svg?style=flat-square)](https://packagist.org/packages/processton-io/processton-tabs)
+[![Total Downloads](https://img.shields.io/packagist/dt/processton-io/processton-tabs.svg?style=flat-square)](https://packagist.org/packages/processton-io/processton-tabs)
+![GitHub Actions](https://github.com/processton-io/processton-tabs/actions/workflows/main.yml/badge.svg)
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
 
@@ -40,7 +40,7 @@ If you discover any security related issues, please email ahmadkokab@gmail.com i
 
 ## Credits
 
--   [Ahmad Kokab](https://github.com/processton)
+-   [Ahmad Kokab](https://github.com/afaryab)
 -   [All Contributors](../../contributors)
 
 ## License
